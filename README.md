@@ -1,5 +1,8 @@
+
+Legend `<!-- text --> is a comment`
+
 ```md
-<!-- Imahe and basic image loading stuff !-->
+<!-- Image and basic image loading stuff !-->
 
 <div align = "center">
     <img src = "" align = "center">
@@ -41,3 +44,11 @@ Content
 Authored and maintained by Name.
 
 > GitHub [@Name](https://github.com/Name)
+```
+
+# Author
+
+**Readme-template** © [Anish-Shobith](https://github.com/Anish-Shobith).  
+Authored and maintained by Anish-Shobith.
+
+> GitHub [@Anish-Shobith](https://github.com/Anish-Shobith)
